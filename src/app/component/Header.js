@@ -5,7 +5,7 @@ export default function Header() {
     <header>
       <nav className="bg-blue-50 border-gray-200 px-4 lg:px-6 py-2.5 border-2 border-black-500 rounded-none mb-4">
         <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
-          <a href="#" className="flex items-center">
+          <a href="/" className="flex items-center">
             <img
               src="https://img.icons8.com/fluency-systems-filled/48/triangle.png"
               className="mr-3 h-6 sm:h-9"
